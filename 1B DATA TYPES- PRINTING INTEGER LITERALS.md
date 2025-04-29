@@ -2,12 +2,15 @@
 
 ## AIM  
 Write a python program to assign an integer 12 to the variable, then print it. men_stepped_on_the_moon= print()
-## ALGORITHM  
-1.Begin the program.
-2.Initialize the integer literal 12.
-3.Use the print() function to display the numbers 12.
-4.Terminate the program.
-## PROGRAM
+## ALGORITHM
+1.Begin the Program.
+
+2.Initialize the Integer Literal 12.
+
+3.Use the print() Function to Display the Number 12.
+
+4.Terminate the Program.
+
 ```python
 men_stepped_on_the_moon = 12
 print(men_stepped_on_the_moon)
